@@ -55,12 +55,12 @@ Este é um sistema de gerenciamento de carrinho de compras desenvolvido em Java 
 ## Instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/shopping-cart.git
+git clone https://github.com/dheik/shopping_cart.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd shopping-cart
+cd shopping_cart
 ```
 
 3. Compile o projeto com Maven:
